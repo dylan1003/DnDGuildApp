@@ -1,0 +1,8 @@
+C:\Users\Dylan\DnDGuildApp\DnDGuildAPI\bin\Debug\netcoreapp2.0\DnDGuildAPI.deps.json
+C:\Users\Dylan\DnDGuildApp\DnDGuildAPI\bin\Debug\netcoreapp2.0\DnDGuildAPI.runtimeconfig.json
+C:\Users\Dylan\DnDGuildApp\DnDGuildAPI\bin\Debug\netcoreapp2.0\DnDGuildAPI.runtimeconfig.dev.json
+C:\Users\Dylan\DnDGuildApp\DnDGuildAPI\bin\Debug\netcoreapp2.0\DnDGuildAPI.dll
+C:\Users\Dylan\DnDGuildApp\DnDGuildAPI\obj\Debug\netcoreapp2.0\DnDGuildAPI.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\DnDGuildApp\DnDGuildAPI\obj\Debug\netcoreapp2.0\DnDGuildAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\DnDGuildApp\DnDGuildAPI\obj\Debug\netcoreapp2.0\DnDGuildAPI.AssemblyInfoInputs.cache
+C:\Users\Dylan\DnDGuildApp\DnDGuildAPI\obj\Debug\netcoreapp2.0\DnDGuildAPI.AssemblyInfo.cs
